@@ -1,1 +1,3 @@
-# java-react-task-management
+# Java Spring Boot + React.js Task Manager
+
+A task management app that demonstrates the integration of a Java Spring Boot API back end with a React front end. The application allows users to register for an account, create, edit, and delete tasks, and mark tasks as complete or incomplete. The Spring Boot back end handles authentication, data persistence, and business logic, while the React front end provides a responsive and dynamic user interface. Building this application served as an educational platform, allowing me to gain hands-on experience and deepen my knowledge of both Java Spring Boot and React.
